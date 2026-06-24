@@ -218,22 +218,7 @@ http://100.79.220.34
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-WireGuard-6B7FD4?style=flat)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat&logo=ubuntu&logoColor=white)
-
----
-
-## 📁 Repo Structure
-
-```
-hydtech-network-lab/
-├── README.md
-├── configs/
-│   ├── ubuntu-0-netplan.yaml   ← gateway netplan config
-│   ├── iol-0-running.txt       ← router config
-│   └── tailscale-acl.json      ← Tailscale ACL policy
-└── docs/
-    └── architecture.png        ← topology diagram screenshot
-```
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ---
 
